@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="PyXI6KFm8pUF3GBjSrUE" name="ページ1">
-        <mxGraphModel dx="2131" dy="2288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="5968" dy="4301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -81,6 +81,24 @@
                         <mxPoint x="3760" y="1490" as="sourcePoint"/>
                         <mxPoint x="3910" y="1360" as="targetPoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="" style="endArrow=classic;html=1;strokeWidth=10;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="22">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="3850" y="1120" as="sourcePoint"/>
+                        <mxPoint x="4380" y="700" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="35" value="&lt;font style=&quot;font-size: 80px;&quot;&gt;レザーを入れたい（厚み確認）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" vertex="1" parent="1">
+                    <mxGeometry x="3760" y="1015" width="1140" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="endArrow=classic;html=1;strokeWidth=10;entryX=0.209;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="12">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="3920" y="440" as="sourcePoint"/>
+                        <mxPoint x="3910" y="810" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="&lt;font style=&quot;font-size: 80px;&quot;&gt;滑り止めの厚み確認&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" vertex="1" parent="1">
+                    <mxGeometry x="3760" y="480" width="740" height="110" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
